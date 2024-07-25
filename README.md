@@ -43,7 +43,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<h3 align="left">Github Stats:</h3>
 
 ![aarcex3's Stats](https://github-readme-stats.vercel.app/api?username=aarcex3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![aarcex3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarcex3&theme=vue-dark&hide_border=true)\
+![aarcex3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarcex3&theme=vue-dark&hide_border=true)
 ![aarcex3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarcex3&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
